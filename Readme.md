@@ -1,1 +1,1 @@
-This is readme file for dev in dev | text change 
+This is readme file in hotFix | in hotFix changed
